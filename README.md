@@ -3,6 +3,8 @@
 
 https://github.com/mdecadp2018/site-40623236
 
+網站:https://mdecadp2018.github.io/site-40623236/content/index.html
+
 Blog: https://mdecadp2018.github.io/site-40623236/blog/
 
 簡報:https://mdecadp2018.github.io/site-40623236/reveal/#/
