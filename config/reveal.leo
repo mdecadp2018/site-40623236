@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -37,6 +37,24 @@
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20181015104124.1"><vh>week1</vh>
+<v t="leo.20181015104124.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181015104144.1"><vh>week2</vh>
+<v t="leo.20181015104144.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181015104208.1"><vh>week3</vh>
+<v t="leo.20181015104208.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181015104221.1"><vh>week4</vh>
+<v t="leo.20181015104221.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181015104232.1"><vh>week5</vh>
+<v t="leo.20181015104232.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181015104243.1"><vh>week6</vh>
+<v t="leo.20181015104243.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -325,6 +343,111 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181015104124.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015104124.2">## week4 課程內容
+
+* 課程大綱介紹
+* 課程所需技能
+
+
+
+</t>
+<t tx="leo.20181015104144.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015104144.2">## week4 課程內容
+
+* 領取作業檔案
+* 近端 遠端介紹
+
+
+
+</t>
+<t tx="leo.20181015104208.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015104208.2">## week4 課程內容
+
+* 中秋放假
+
+
+
+</t>
+<t tx="leo.20181015104221.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015104221.2">## week4 課程內容
+
+* 創建on shape 
+* 修改BLOG
+* 修改網誌
+* 講解之後課程所需要的技能
+* 英文對課程重要
+* onshape介面指令 介紹 
+
+
+
+</t>
+<t tx="leo.20181015104232.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015104232.2">## week5 課程內容
+
+* 連桿機構
+* 
+
+
+
+</t>
+<t tx="leo.20181015104243.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181015104243.2">## week5 課程內容
+
+* 更新blog網誌
+* 
+
+
+
 </t>
 </tnodes>
 </leo_file>

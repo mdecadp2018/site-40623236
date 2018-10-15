@@ -69,11 +69,16 @@
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20181015103930.1"><vh>@edit 201810917.md</vh></v>
+<v t="leo.20181015103949.1"><vh>@edit 20180924.md</vh></v>
+<v t="leo.20181015104001.1"><vh>@edit 20181001.md</vh></v>
+<v t="leo.20181015104011.1"><vh>@edit 20181008.md</vh></v>
+<v t="leo.20181015104039.1"><vh>@edit 20181015.md</vh></v>
 </v>
 </v>
 </v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
+<v t="leo.20181015104023.1"><vh>@edit 20181015.md</vh></v>
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
