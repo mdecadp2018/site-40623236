@@ -56,6 +56,9 @@
 <v t="leo.20181015104243.1" a="E"><vh>week6</vh>
 <v t="leo.20181015104243.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181022091859.1" a="E"><vh>week6</vh>
+<v t="leo.20181022091859.2"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -441,9 +444,27 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015104243.2">## week5 課程內容
+<t tx="leo.20181015104243.2">## week6 課程內容
 
 * 更新blog網誌
+
+
+
+
+</t>
+<t tx="leo.20181022091859.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181022091859.2">## week7 課程內容
+
+* 熟悉Onshape介面
+* Fossial scm
 
 
 
