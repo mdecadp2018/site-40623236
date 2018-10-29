@@ -53,11 +53,14 @@
 <v t="leo.20181015104232.1"><vh>week5</vh>
 <v t="leo.20181015104232.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181015104243.1" a="E"><vh>week6</vh>
+<v t="leo.20181015104243.1"><vh>week6</vh>
 <v t="leo.20181015104243.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181022091859.1" a="E"><vh>week6</vh>
+<v t="leo.20181022091859.1"><vh>week7</vh>
 <v t="leo.20181022091859.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181029102936.1" a="E"><vh>week8</vh>
+<v t="leo.20181029102936.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -465,6 +468,24 @@ make.start()
 
 * 熟悉Onshape介面
 * Fossial scm
+
+
+
+
+</t>
+<t tx="leo.20181029102936.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029102936.2">## week7 課程內容
+
+* 找尋分組成員
+* 下禮拜就要自評 加快進度
 
 
 
