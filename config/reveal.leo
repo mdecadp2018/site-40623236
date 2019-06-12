@@ -30,12 +30,21 @@
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
-<v t="leo.20190612145219.1"><vh>LaTeX 格式方程式</vh></v>
-<v t="leo.20190612145247.1"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20190612190957.1" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190612190957.2"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20190612191042.1"><vh>導入數學符號與方程式</vh>
+<v t="leo.20190612191042.2"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20190612191206.1"><vh>導入影片</vh>
+<v t="leo.20190612191206.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20190612145328.1"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20190612191319.1"><vh>導入影片</vh>
+<v t="leo.20190612191319.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20181015104124.1"><vh>week1</vh>
@@ -190,9 +199,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.15"># 做出的影片
+<t tx="leo.20180827201621.15"># 影片
 
-&lt;iframe src="https://www.youtube.com/watch?v=DzXKomnz_As&amp;t=22s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="842" height="506" src="https://www.youtube.com/embed/KpMUbE2EtFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -204,10 +213,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 						
-</t>
-<t tx="leo.20180827201621.19">## 成品影片
-
-&lt;iframe src="https://www.youtube.com/watch?v=eRYPIM0JGmg" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -444,21 +449,62 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20190612145219.1"># 做出的影片
-
-&lt;iframe src="https://www.youtube.com/watch?v=KpMUbE2EtFg&amp;t=35s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-
-</t>
-<t tx="leo.20190612145247.1"># 做出的影片
-
-&lt;iframe src="https://www.youtube.com/watch?v=sYXZmMSn-2o&amp;t=23s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-
-</t>
 <t tx="leo.20190612145328.1">## 成品影片
 
-&lt;iframe src="https://www.youtube.com/watch?v=jhMWzpLlIM8" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="943" height="506" src="https://www.youtube.com/embed/jhMWzpLlIM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612190957.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612190957.2"># 影片
+
+&lt;iframe width="842" height="506" src="https://www.youtube.com/embed/sYXZmMSn-2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612191042.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190612191042.2"># 影片
+
+&lt;iframe width="842" height="506" src="https://www.youtube.com/embed/DzXKomnz_As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190612191206.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190612191206.2">## 成品影片
+
+&lt;iframe width="943" height="506" src="https://www.youtube.com/embed/eRYPIM0JGmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190612191319.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190612191319.2">## 期末影片
+
+&lt;iframe width="943" height="506" src="https://www.youtube.com/embed/N6Q7KxyBP94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
