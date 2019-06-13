@@ -481,7 +481,7 @@ Created by [40623236](https://mdecadp2018.github.io/site-40623236/content/index.
 <t tx="leo.20190612191319.2">## 期末影片
 
 
-&lt;iframe width="877" height="475" src="https://www.youtube.com/embed/gYCMFk44p48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="1280" height="693" src="https://www.youtube.com/embed/UKmK8mvFx0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190613165047.1">&lt;section data-markdown&gt;
