@@ -154,15 +154,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 40623236分組網際簡報
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623236](https://mdecadp2018.github.io/site-40623236/content/index.html)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[第二組分組網誌](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/content/index.html)
 
 
 </t>
@@ -481,7 +481,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20190612191319.2">## 期末影片
 
 
-&lt;iframe width="877" height="475" src="https://www.youtube.com/embed/gYCMFk44p48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="877" height="475" src="https://www.youtube.com/embed/gYCMFk44p48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190613165047.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
